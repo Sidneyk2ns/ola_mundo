@@ -1,2 +1,3 @@
-# ola_mundo
+# olá, mundo!
  aprendendo versionamento Git / GitHub
+ repositório criado no curso.
