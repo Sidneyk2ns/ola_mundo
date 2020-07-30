@@ -1,3 +1,3 @@
-# olá, mundo!
- aprendendo versionamento Git / GitHub
+# página de venda de carros
+ aprendendo versionamento Git,
  repositório criado no curso.
